@@ -1,0 +1,22 @@
+{
+  "name": "test-gatsby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "test-gatsby",
+  "author": "junsun",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
